@@ -5,7 +5,11 @@ notion, python, vs code
 ## 📂오늘은 무엇을 배웠나요?
 #### NOTION, PYTHON, VS CODE 설치하는 방법과 활용하는 것에 대해 배웠습니다. 
 
+
+
 ----
+
+
 
 ## 1️⃣ NOTION
 
@@ -36,7 +40,12 @@ notion, python, vs code
 > 협업 실시간 에디터는 온라인 스프레드시트, 워드프로세서 문서, 데이터 베이스, 프레젠테이션 등 동일한 디지털 문서, 컴퓨터 파일 또는 클라우드에 저장된 데이터를 실시간으로 편집, 동시 편집 또는 실시간 편집 할 수 있는 협업 소프트웨어 또는 웹 응용 프로그램의 일종이다. 사용자가 편집한 내용을 거의 즉시 자동 병합하여 다른 컴퓨터나 모바일 기기에 접속할 수 있다.
 
 
+
+
 ---
+
+
+
 
 ## 2️⃣ PYTHON
 
@@ -63,7 +72,11 @@ notion, python, vs code
 
 **[HOW TO SET UP PRROGRAM PYTHON](https://areuready.tistory.com/entry/PYTHON-%EC%84%A4%EC%B9%98%EB%A5%BC-%ED%95%B4%EB%B3%B4%EC%9E%90?category=1073550)**
 
+
+
 ---
+
+
 
 ## 3️⃣ VS CODE (Visual Studio Code)
 ![img](https://blog.kakaocdn.net/dn/mpnzL/btrGtf4e6rn/oQmOdqtmeNK14jlhIrpYD1/img.png)
