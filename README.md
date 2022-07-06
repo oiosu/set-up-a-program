@@ -64,6 +64,7 @@ notion, python, vs code
 *  모듈, 클래스, 객체와 같은 언어의 요소가 내부에서 접근이 가능하고 리플렉션을 이용한 기술을 쓸 수 있다.
 
 **📑 PYTHON 의 기능과 철학**
+
 ◼️ "아름다운 게 추한 것보다 낫다." (Beautiful is better than ugly)
 ◼️ "명시적인 것이 암시적인 것 보다 낫다." (Explicit is better than implicit)
 ◼️ "단순함이 복잡함보다 낫다." (Simple is better than complex)
