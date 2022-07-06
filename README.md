@@ -11,7 +11,7 @@ notion, python, vs code
 
 
 
-## 1️⃣ NOTION
+## 1️⃣ [NOTION](https://github.com/oiosu/set-up-a-program/blob/main/NOTION.md)
 
 ![img](https://blog.kakaocdn.net/dn/bPCqJd/btrGunG8fC5/k9Emkejo6Ki715vSQR71Uk/img.png)
 
