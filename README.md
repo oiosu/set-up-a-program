@@ -66,10 +66,15 @@ notion, python, vs code
 **📑 PYTHON 의 기능과 철학**
 
 ◼️ "아름다운 게 추한 것보다 낫다." (Beautiful is better than ugly)
+
 ◼️ "명시적인 것이 암시적인 것 보다 낫다." (Explicit is better than implicit)
+
 ◼️ "단순함이 복잡함보다 낫다." (Simple is better than complex)
+
 ◼️ "복합함이 난해한 것보다 낫다." (Complex is better than complicated)
+
 ◼️ "가독성은 중요하다." (Readability counts)
+
 
 **[HOW TO SET UP PRROGRAM PYTHON](https://areuready.tistory.com/entry/PYTHON-%EC%84%A4%EC%B9%98%EB%A5%BC-%ED%95%B4%EB%B3%B4%EC%9E%90?category=1073550)**
 
